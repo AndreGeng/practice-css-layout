@@ -1,0 +1,15 @@
+.middle, .left, .right{
+  float: left;
+}
+.middle{
+  width: 100%;
+}
+.middle .content{
+  margin: 0 20%;
+}
+.left{
+  margin-left: -100%;
+}
+.right{
+  margin-left: -20%;
+}

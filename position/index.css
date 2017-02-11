@@ -1,0 +1,16 @@
+.container{
+  position: relative;
+}
+.left{
+  top: 0;
+  left: 0;
+  position: absolute;
+}
+.middle{
+  margin: 0 20%;
+}
+.right{
+  position: absolute;
+  top: 0;
+  right: 0;
+}
